@@ -1,5 +1,5 @@
 #!/bin/sh
 
-poetry add aider-install
+poetry add --dev aider-install
 poetry install --no-root
 
